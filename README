@@ -1,0 +1,12 @@
+The hardware device must be connected to either the helm or weapons station.
+
+The 'controls.ini' file in the Artemis directory of the connected station must have the following lines appended to it:
+MAIN_SCREEN_FRONT          =           UI_INPUT_KEY_F
+MAIN_SCREEN_LEFT           =           UI_INPUT_KEY_L
+MAIN_SCREEN_RIGHT          =           UI_INPUT_KEY_R
+MAIN_SCREEN_REAR           =           UI_INPUT_KEY_B
+MAIN_SCREEN_TACTICAL       =           UI_INPUT_KEY_T
+MAIN_SCREEN_SECTOR         =           UI_INPUT_KEY_V
+MAIN_SCREEN_STATUS         =           UI_INPUT_KEY_I
+
+Enjoy!
